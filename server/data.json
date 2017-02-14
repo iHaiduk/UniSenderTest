@@ -1,0 +1,114 @@
+{
+  "flights": [
+    {
+      "id": 123,
+      "direction": {
+        "from": "Kyiv",
+        "to": "Berlin"
+      },
+      "arrival": "2016-06-08T19:52:27.979Z",
+      "departure": "2016-06-08T17:51:20.979Z",
+      "carrier": "WizzAir"
+    },
+    {
+      "id": 193,
+      "direction": {
+        "from": "Kyiv",
+        "to": "New York"
+      },
+      "arrival": "2016-06-08T21:52:27.979Z",
+      "departure": "2016-06-08T17:51:20.979Z",
+      "carrier": "MAU"
+    },
+    {
+      "id": 133,
+      "direction": {
+        "from": "Kyiv",
+        "to": "Lviv"
+      },
+      "arrival": "2016-09-08T13:52:27.979Z",
+      "departure": "2016-08-08T17:51:20.979Z",
+      "carrier": "KLM"
+    },
+    {
+      "id": 126,
+      "direction": {
+        "from": "Kyiv",
+        "to": "London"
+      },
+      "arrival": "2016-08-10T13:52:27.979Z",
+      "departure": "2016-08-09T17:51:20.979Z",
+      "carrier": "WizzAir"
+    },
+    {
+      "id": 1543,
+      "direction": {
+        "from": "Kyiv",
+        "to": "Berlin"
+      },
+      "arrival": "2016-06-08T13:52:27.979Z",
+      "departure": "2016-06-08T17:51:20.979Z",
+      "carrier": "MAU"
+    },
+    {
+      "id": 1213,
+      "direction": {
+        "from": "Kyiv",
+        "to": "Berlin"
+      },
+      "arrival": "2016-06-08T14:52:29.979Z",
+      "departure": "2016-06-08T19:51:20.979Z",
+      "carrier": "AirFrance"
+    },
+    {
+      "id": 1523,
+      "direction": {
+        "from": "Kyiv",
+        "to": "Berlin"
+      },
+      "arrival": "2016-06-08T13:52:27.979Z",
+      "departure": "2016-06-08T17:51:20.979Z",
+      "carrier": "KLM"
+    },
+    {
+      "id": 1283,
+      "direction": {
+        "from": "Kyiv",
+        "to": "Berlin"
+      },
+      "arrival": "2016-06-08T13:52:27.979Z",
+      "departure": "2016-06-08T17:51:20.979Z",
+      "carrier": "Pegasus"
+    },
+    {
+      "id": 12310,
+      "direction": {
+        "from": "Kyiv",
+        "to": "Bangkok"
+      },
+      "arrival": "2016-06-08T13:52:27.979Z",
+      "departure": "2016-06-08T17:51:20.979Z",
+      "carrier": "Emirates"
+    },
+    {
+      "id": 19923,
+      "direction": {
+        "from": "Kyiv",
+        "to": "Berlin"
+      },
+      "arrival": "2016-06-11T13:52:27.979Z",
+      "departure": "2016-06-10T17:51:20.979Z",
+      "carrier": "KLM"
+    },
+    {
+      "id": 2542,
+      "direction": {
+        "from": "Madrid",
+        "to": "Paris"
+      },
+      "arrival": "2016-06-16T13:52:27.979Z",
+      "departure": "2016-06-17T17:51:20.979Z",
+      "carrier": "WizzAir"
+    }
+  ]
+}
